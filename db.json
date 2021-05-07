@@ -1,12 +1,12 @@
 {
   "dates": [
     {
-      "id"=1,
+      "id":1,
       "terminationDate": "26/10/2021",
       "lockDate": "26/10/1995"
     },
      {
-     "id"=2,
+     "id":2,
       "terminationDate": "08/05/2021",
       "lockDate": "02/10/1995"
     },
